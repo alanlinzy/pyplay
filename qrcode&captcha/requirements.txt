@@ -1,0 +1,4 @@
+qrcode
+pillow
+pyzbar
+cv2

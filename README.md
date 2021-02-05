@@ -1,2 +1,2 @@
 # pyplay
- my implement of some interesting tool
+ implement of some interesting tool
